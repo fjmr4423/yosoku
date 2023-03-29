@@ -5,4 +5,4 @@ yfinance
 pandas
 datetime
 pandas_datareader
-sklearn
+scikit-learn
