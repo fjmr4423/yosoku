@@ -2,7 +2,7 @@ streamlit
 torch
 numpy
 yfinance
-pandas_datareader.data
+pandas
 datetime
 sklearn.preprocessing
 torch.autograd
