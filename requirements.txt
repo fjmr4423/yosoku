@@ -4,6 +4,4 @@ numpy
 yfinance
 pandas
 datetime
-sklearn.preprocessing
-torch.autograd
 matplotlib.pyplot
