@@ -6,3 +6,4 @@ pandas
 datetime
 pandas_datareader
 scikit-learn
+matplotlib
