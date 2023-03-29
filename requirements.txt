@@ -1,6 +1,5 @@
 streamlit
 torch
-torch.nn 
 numpy
 yfinance
 pandas_datareader.data
